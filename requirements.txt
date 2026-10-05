@@ -1,0 +1,7 @@
+streamlit>=1.30
+pandas>=2.0
+numpy
+scikit-learn>=1.3
+xgboost>=3.0
+plotly>=5.0
+pyarrow>=14.0
